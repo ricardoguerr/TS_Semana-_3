@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TS_SEMANA_13/1.0.0": {
+        "runtime": {
+          "TS_SEMANA_13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TS_SEMANA_13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
